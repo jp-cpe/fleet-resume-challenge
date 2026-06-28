@@ -17,4 +17,4 @@ A working Fleet instance you own and can administer end-to-end.
 - [ ] Complete first-run setup and sign in to the UI
 
 ## Done when
-- [ ] The UI loads, the Hosts page is reachable, and My account shows a license expiration date
+- [ ] Fleet UI loads at a stable URL you own, the Hosts page is reachable, and My account shows a license expiration date

@@ -3,7 +3,9 @@
 Build real device management skills. Put them on your resume.
 
 The Fleet Resume Challenge is inspired by the [Cloud Resume Challenge](https://cloudresumechallenge.dev/),
-but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the open-source platform for device management. Work
+but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the open-source platform for device management. 
+
+Work
 through 23 hands-on modules: deploy Fleet, enroll hosts, configure MDM, manage your configuration
 with GitOps, run osquery, and more.
 

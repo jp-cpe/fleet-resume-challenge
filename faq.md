@@ -20,6 +20,14 @@ Mostly, yes. Later tasks build on earlier ones, so you must deploy Fleet and enr
 ### Do I have to do all the tasks?
 No, but the more you complete, the more hands-on experience you'll have to show. Even a partial run-through is valuable, and finishing everything makes for the strongest resume story.
 
+### Can I use AI tools to complete the challenge?
+
+Yes. Validate what you get against the official Fleet docs before relying on it. Some tasks require hands-on work that AI can't do for you. If you're shorting yourself on a learning opportunity, you'll know. The point of this project is to *learn*.
+
+### Why don't modules walk me through every step?
+
+Methods change too fast for detailed step-by-step instructions to stay accurate. Each module defines what you need to deliver: a goal, resources to draw on, and criteria for when you're done. You work out the specifics using those resources. That's the fun part.
+
 ### What hardware and software do I need?
 You'll need a place to host the Fleet server (cloud or local) and hosts running at least 3 different operating systems (for example macOS, Windows, and Linux) to enroll.
 

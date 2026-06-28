@@ -3,7 +3,7 @@
 Manage Fleet as code with GitOps.
 
 ## Goal
-Your live Fleet configuration captured in a Git repo, with changes applied automatically via CI and GitOps mode locking the UI from drift.
+Your live Fleet configuration captured in a Git repo, with changes applied automatically via CI/CD and GitOps mode locking the UI from drift.
 
 ## Resources
 - [Step-by-step: GitOps](../guides/gitops.md)
@@ -13,7 +13,7 @@ Your live Fleet configuration captured in a Git repo, with changes applied autom
 
 ## Tasks
 - [ ] Export your existing Fleet config to GitOps YAML with `fleetctl generate-gitops`
-- [ ] Commit the config to a GitHub repo with a workflow that runs `fleetctl gitops`
+- [ ] Commit the config to a git repo with a workflow that runs `fleetctl gitops`
 - [ ] Confirm pushes to main apply changes while PRs run dry-run only
 - [ ] Enable GitOps mode to lock the UI from drift
 

@@ -14,4 +14,4 @@ Read the [FAQ](faq.md) then take the [challenge](challenge.md).
 ---
 
 
-> 🚧 **NOTE:** This project is a *work in progress*. 🏗️ The content is subject to change. Contributions are welcome. 🦺
+> 🚧 **NOTE:** This project is a *work in progress*. 🏗️ The content is subject to change. 🦺 Contributions are welcome. 

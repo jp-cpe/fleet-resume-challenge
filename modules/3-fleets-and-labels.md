@@ -18,4 +18,3 @@ Your hosts organized into fleets and labels, plus an API-only user with a saved 
 ## Done when
 - [ ] 2 fleets populated, 1 dynamic + 1 manual label working, and an API token saved
 
-> 🏗️  Keep your hard hat on, this content is under construction.

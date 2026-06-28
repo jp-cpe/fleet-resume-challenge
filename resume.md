@@ -17,7 +17,7 @@ candidates with only theoretical knowledge.
 
 - **Deployment:** You stood up and own a live Fleet server end-to-end.
 - **Cross-platform enrollment:** Hosts enrolled across macOS, Windows, Linux, iOS, and Android.
-- **GitOps:** Policies, software deployments, and configurations managed as code.
+- **GitOps:** Managing devices as code and using CI/CD workflows to make changes.
 - **osquery:** Querying and reporting on fleet-wide device state.
 - **MDM:** Managing devices, including Apple MDM, certificates, and setup experience.
 

@@ -1,7 +1,7 @@
 ---
 name: Module development
 about: Track the development of a challenge module
-title: "[Module] <number>. <name>"
+title: "[Module] – <number>. <name>"
 labels: ["module"]
 assignees: []
 ---

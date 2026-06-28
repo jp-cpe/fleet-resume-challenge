@@ -6,7 +6,7 @@ You're done when you've finished the 17 core modules and published your blog pos
 
 If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools are fair game. See [Can I use AI tools to complete the challenge?](faq.md#can-i-use-ai-tools-to-complete-the-challenge).
 
-> 🎓 **Recommended:** Earn the [Fleet Certified GitOps Administrator – Level 1](modules/certification.md) certification. It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge. The workshop runs on a schedule, so register early — you can complete it in parallel with the modules below.
+> 🎓 **Recommended:** Earn the **Fleet Certified GitOps Administrator – Level 1** certification by attending a [Fleet GitOps workshop](https://fleetdm.com/gitops-workshop). It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge.
 
 ---
 
@@ -59,3 +59,4 @@ Optional, advanced modules that usually depend on external services. Tackle them
 ### [Bonus 3. Conditional access](modules/bonus-3-conditional-access.md)
 
 ### [Bonus 4. AI + Fleet](modules/bonus-4-ai-fleet.md)
+

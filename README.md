@@ -1,6 +1,6 @@
-# The Fleet Resume Challenge
+# The Fleet resume challenge
 
-The Fleet Resume Challenge is a take on the [Cloud Resume Challenge](https://cloudresumechallenge.dev/), but for [Fleet](https://fleetdm.com/). 
+The Fleet resume challenge is a take on the [Cloud Resume Challenge](https://cloudresumechallenge.dev/), but for [Fleet](https://fleetdm.com/). 
 
 ---
 

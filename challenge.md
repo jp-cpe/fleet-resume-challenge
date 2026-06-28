@@ -1,6 +1,10 @@
 # The Fleet Resume Challenge
 
-Finish all the tasks to complete the challenge.
+Work through the modules in order. Each builds on the last: you can't enroll hosts before Fleet is deployed, and you can't manage policies before hosts are enrolled.
+
+You're done when you've finished all 23 modules and published your blog post. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
+
+If you get stuck, the [FAQ](faq.md) covers the most common questions.
 
 ---
 

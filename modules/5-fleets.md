@@ -2,6 +2,8 @@
 
 Understand and use fleets as a grouping primitive.
 
+> 🏗️  Keep your hard hat on, this content is under construction.
+
 ## Phase 1 — Fleets, labels, and an API-only user
 **Goal:** Understand Fleet's two grouping primitives: Fleets and Labels.
 

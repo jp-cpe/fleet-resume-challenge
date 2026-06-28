@@ -2,6 +2,8 @@
 
 Deliver software to your hosts.
 
+> 🏗️  Keep your hard hat on, this content is under construction. 
+
 ## Phase 1 — Software delivery
 **Goal:** Hit every software path.
 

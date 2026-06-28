@@ -5,6 +5,7 @@ Your resume should ideally have the [Fleet Certified GitOps Administrator - Leve
 > **Note:** This certification is obtained by attending a [Fleet GitOps workshop](https://fleetdm.com/gitops-workshop).
 
 ### Is the Fleet GitOps certification required?
+
 No, it's recommended but optional. Having the **Fleet Certified GitOps Administrator - Level 1** certification strengthens your resume, but you can complete the challenge without it.
 
 ### How do I get the GitOps certification?

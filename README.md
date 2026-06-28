@@ -24,9 +24,9 @@ with GitOps, run osquery, and more.
 
 ## How it works
 
-1. **Work through the [challenge](challenge.md)**
-2. **Publish the final blog post**
-3. **Put Fleet on your resume**
+1. Work through the [challenge](challenge.md)
+2. [Publish a blog post](modules/22-blog-post.md)
+3. [Put Fleet on your resume](resume.md)
 
 ## Get started
 

@@ -2,28 +2,19 @@
 
 Configure pass/fail policies in Fleet with auto-remediation.
 
-> 🏗️  Keep your hard hat on, this content is under construction. 
+## Goal
+Cross-platform compliance policies with automated remediation, plus a working library of scripts you can run on hosts.
 
-## Phase 1 — Policies and remediation
-**Goal:** Pass/fail compliance with optional auto-remediation.
+## Resources
+- [Step-by-step: Policies and scripts](../guides/policies.md)
 
-1. Create 3 cross-platform policies:
-   - **macOS** — FileVault enabled: `SELECT 1 FROM disk_encryption WHERE filevault_status = 'on' LIMIT 1;`
-   - **Windows** — BitLocker enabled (use the policy library)
-   - **Linux** — automatic updates enabled
-2. On one policy, enable **Run script on failure** (Policies → policy → Automation). Wire up a simple remediation script.
-3. Settings → Integrations → Automations → Policy automations → point a **webhook** at `webhook.site` first to verify payload shape. You'll swap to Slack/Tines later.
-4. Force a failure (disable FileVault on a test Mac), confirm remediation script runs and webhook fires.
-5. **Done when:** 3 policies across 3 platforms, 1 with auto-remediation, webhook firing end-to-end.
+## Tasks
+- [ ] Create pass/fail policies across macOS, Windows, and Linux
+- [ ] Add auto-remediation (run script on failure) to a policy and verify it fires end-to-end
+- [ ] Build a small script library and run scripts on hosts from the UI
 
-## Phase 2 — Scripts and host actions
-**Goal:** Scripts as a primary remediation/automation surface.
+## Done when
+- [ ] 3 policies across 3 platforms, 1 with working auto-remediation
+- [ ] 3 scripts run via the UI, 1 triggered automatically from a policy
 
-1. Save 3 scripts in `lib/scripts/`:
-   - macOS zsh: `system_profiler SPHardwareDataType`
-   - Windows PowerShell: `Get-ComputerInfo`
-   - Linux bash: `uname -a; lsb_release -a`
-2. Reference them under `scripts:` in team yml.
-3. Hosts page → host → Actions → **Run script**. Confirm output captured.
-4. Verify the policy-failure script from before ran automatically.
-5. **Done when:** 3 scripts run via UI, 1 runs from a policy.
+> 🏗️  Keep your hard hat on, this content is under construction.

@@ -1,4 +1,4 @@
-# 1. Certification
+# Certification
 
 Your resume should ideally have the [Fleet Certified GitOps Administrator - Level 1](https://www.virtualbadge.io/certificate-validator?credential=e3c0b1ef-0560-43a9-8e14-db672128acd6) certification on it.
 

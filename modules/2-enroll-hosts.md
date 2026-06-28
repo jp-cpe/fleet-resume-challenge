@@ -1,4 +1,4 @@
-# 4. Enroll hosts into Fleet
+# 2. Enroll hosts into Fleet
 
 You must enroll hosts of at least 3 different operating systems into your Fleet server.
 

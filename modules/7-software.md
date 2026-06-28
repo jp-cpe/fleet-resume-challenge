@@ -1,4 +1,4 @@
-# 10. Software
+# 7. Software
 
 Deliver software to your hosts.
 

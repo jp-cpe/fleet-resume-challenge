@@ -1,5 +1,5 @@
-# 19. Fleetctl
+# Bonus 4. AI + Fleet
 
-Use `fleetctl` to interact with Fleet.
+Use AI to manage Fleet.
 
 > 🏗️  Keep your hard hat on, this content is under construction. 

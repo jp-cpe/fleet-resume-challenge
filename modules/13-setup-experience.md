@@ -1,4 +1,4 @@
-# 14. Setup experience
+# 13. Setup experience
 
 Onboard a new device using setup experience.
 

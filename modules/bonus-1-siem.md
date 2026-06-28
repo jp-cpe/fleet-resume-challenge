@@ -1,4 +1,4 @@
-# 15. SIEM | logging
+# Bonus 1. SIEM | logging
 
 Ship logs to a SIEM.
 

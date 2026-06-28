@@ -1,4 +1,4 @@
-# 9. Policies
+# 6. Policies
 
 Configure pass/fail policies in Fleet with auto-remediation.
 

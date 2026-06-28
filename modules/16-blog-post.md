@@ -1,4 +1,4 @@
-# 22. Blog post
+# 16. Blog post
 
 Write a short blog post describing what you learned during this challenge.
 

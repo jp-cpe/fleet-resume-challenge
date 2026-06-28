@@ -1,4 +1,4 @@
-# 3. Deploy Fleet
+# 1. Deploy Fleet
 
 You need to deploy Fleet.
 

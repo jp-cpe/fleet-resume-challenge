@@ -1,56 +1,61 @@
 # The Fleet Resume Challenge
 
-Work through the modules in order. Each builds on the last: you can't enroll hosts before Fleet is deployed, and you can't manage policies before hosts are enrolled.
+Work through the core modules in order. Each builds on the last: you can't enroll hosts before Fleet is deployed, and you can't manage policies before hosts are enrolled.
 
-You're done when you've finished all 23 modules and published your blog post. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
+You're done when you've finished the 17 core modules and published your blog post. The bonus modules are optional ways to go deeper. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
 
 If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools are fair game. See [Can I use AI tools to complete the challenge?](faq.md#can-i-use-ai-tools-to-complete-the-challenge).
 
+> 🎓 **Recommended:** Earn the [Fleet Certified GitOps Administrator – Level 1](modules/certification.md) certification. It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge. The workshop runs on a schedule, so register early — you can complete it in parallel with the modules below.
+
 ---
 
-### [0. Why Fleet?](modules/0-why-fleet.md)
+## Core modules
 
-### [1. Certification](modules/1-certification.md)
+### [0. Get oriented](modules/0-get-oriented.md)
 
-### [2. Fleet's anatomy](modules/2-fleets-anatomy.md)
+### [1. Deploy Fleet](modules/1-deploy-fleet.md)
 
-### [3. Deploy Fleet](modules/3-deploy-fleet.md)
+### [2. Enroll hosts into Fleet](modules/2-enroll-hosts.md)
 
-### [4. Enroll hosts into Fleet](modules/4-enroll-hosts.md)
+### [3. Fleets & labels](modules/3-fleets-and-labels.md)
 
-### [5. Fleets](modules/5-fleets.md)
+### [4. GitOps](modules/4-gitops.md)
 
-### [6. Labels](modules/6-labels.md)
+### [5. Host data & queries](modules/5-host-data-and-queries.md)
 
-### [7. GitOps](modules/7-gitops.md)
+### [6. Policies](modules/6-policies.md)
 
-### [8. Reports | osquery](modules/8-reports-osquery.md)
+### [7. Software](modules/7-software.md)
 
-### [9. Policies](modules/9-policies.md)
+### [8. MDM](modules/8-mdm.md)
 
-### [10. Software](modules/10-software.md)
+### [9. OS settings](modules/9-os-settings.md)
 
-### [11. MDM](modules/11-mdm.md)
+### [10. Disk encryption](modules/10-disk-encryption.md)
+
+### [11. OS updates](modules/11-os-updates.md)
 
 ### [12. Certificates](modules/12-certificates.md)
 
-### [13. Host vitals](modules/13-host-vitals.md)
+### [13. Setup experience](modules/13-setup-experience.md)
 
-### [14. Setup experience](modules/14-setup-experience.md)
+### [14. Vulnerability management](modules/14-vulnerability-management.md)
 
-### [15. SIEM | logging](modules/15-siem.md)
+### [15. Automating Fleet (API & fleetctl)](modules/15-automating-fleet.md)
 
-### [16. Webhooks](modules/16-webhooks.md)
+### [16. Blog post](modules/16-blog-post.md)
 
-### [17. Vulnerability management](modules/17-vulnerability-management.md)
+---
 
-### [18. REST API](modules/18-rest-api.md)
+## Bonus modules
 
-### [19. Fleetctl](modules/19-fleetctl.md)
+Optional, advanced modules that usually depend on external services. Tackle them once you've finished the core challenge.
 
-### [20. Artificial Intelligence](modules/20-ai-fleet.md)
+### [Bonus 1. SIEM | logging](modules/bonus-1-siem.md)
 
-### [21. Conditional access](modules/21-conditional-access.md)
+### [Bonus 2. Webhooks](modules/bonus-2-webhooks.md)
 
-### [22. Blog post](modules/22-blog-post.md)
+### [Bonus 3. Conditional access](modules/bonus-3-conditional-access.md)
 
+### [Bonus 4. AI + Fleet](modules/bonus-4-ai-fleet.md)

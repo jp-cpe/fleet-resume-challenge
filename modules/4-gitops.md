@@ -1,4 +1,4 @@
-# 7. GitOps
+# 4. GitOps
 
 Make changes to Fleet using GitOps.
 

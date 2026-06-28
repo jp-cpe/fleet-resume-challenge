@@ -1,4 +1,4 @@
-# 16. Webhooks
+# Bonus 2. Webhooks
 
 Create an automation using a webhook.
 

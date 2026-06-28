@@ -8,7 +8,7 @@ assignees: []
 
 ## Module
 
-<!-- Which module is this? e.g. "10. Software" -> modules/10-software.md -->
+<!-- Which module is this? e.g. "7. Software" -> modules/7-software.md (or a bonus module, e.g. modules/bonus-1-siem.md) -->
 
 - **Number / name:**
 - **File:** `modules/<number>-<slug>.md`

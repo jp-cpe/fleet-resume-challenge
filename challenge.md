@@ -4,7 +4,7 @@ Work through the modules in order. Each builds on the last: you can't enroll hos
 
 You're done when you've finished all 23 modules and published your blog post. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
 
-If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools are fair game — see [Can I use AI tools to complete the challenge?](faq.md#can-i-use-ai-tools-to-complete-the-challenge).
+If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools are fair game. See [Can I use AI tools to complete the challenge?](faq.md#can-i-use-ai-tools-to-complete-the-challenge).
 
 ---
 
@@ -53,3 +53,4 @@ If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools a
 ### [21. Conditional access](modules/21-conditional-access.md)
 
 ### [22. Blog post](modules/22-blog-post.md)
+

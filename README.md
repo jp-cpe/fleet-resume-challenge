@@ -8,7 +8,7 @@ but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the op
 Work through 17 core hands-on modules (plus optional bonus modules): deploy Fleet, enroll hosts,
 configure MDM, manage your configuration with GitOps, run osquery, and more.
 
-Put the skills you learn during the challenge on your resume and use the experience to land a job as a Client Platform Engineer.
+Put the skills you learn during the challenge on your resume and use the experience to help land a job as a Client Platform Engineer.
 
 ## What you'll build
 

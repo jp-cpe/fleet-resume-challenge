@@ -27,7 +27,7 @@ Put the skills you learn during the challenge on your resume and use the experie
 
 1. Work through the [challenge](challenge.md)
 2. Publish a [blog post](modules/16-blog-post.md)
-3. Put Fleet on your [resume](resume.md)
+3. Put Fleet on your [resume](guides/resume.md)
 
 ## Get started
 

@@ -33,7 +33,7 @@ Frame each item around outcomes and tools, not just tasks. For example:
 
 - Your public GitHub repo with GitOps configs, queries, and policies
 - Screenshots of your Fleet instance
-- The [blog post](modules/16-blog-post.md) describing what you learned
+- The [blog post](../modules/16-blog-post.md) describing what you learned
 - The **Fleet Certified GitOps Administrator – Level 1** certification, if you earned it
 
 ## Roles this maps to

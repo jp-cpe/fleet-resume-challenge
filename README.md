@@ -1,6 +1,6 @@
 # The Fleet Resume Challenge
 
-Build real device management skills. Put them on your resume.
+Build real device management skills you can put on your resume.
 
 The Fleet Resume Challenge is inspired by the [Cloud Resume Challenge](https://cloudresumechallenge.dev/),
 but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the open-source platform for device management. 

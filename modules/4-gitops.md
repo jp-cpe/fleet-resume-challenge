@@ -10,6 +10,7 @@ Your live Fleet configuration captured in a Git repo, with changes applied autom
 - [Fleet GitOps documentation](https://fleetdm.com/docs/configuration/yaml-files)
 - [Migrating to GitOps using fleetctl](https://fleetdm.com/guides/migrating-to-gitops-using-fleetctl)
 - [Fleet's internal GitOps repo](https://github.com/fleetdm/fleet/tree/main/it-and-security)
+- [Attend a Fleet GitOps workshop](https://fleetdm.com/gitops-workshop)
 
 ## Tasks
 - [ ] Export your existing Fleet config to GitOps YAML with `fleetctl generate-gitops`

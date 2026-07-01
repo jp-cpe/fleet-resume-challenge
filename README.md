@@ -1,12 +1,12 @@
 # The Fleet Resume Challenge
 
+![The Fleet Resume Challenge](assets/fleet-resume-challenge-banner.png)
+
 The Fleet Resume Challenge is inspired by the [Cloud Resume Challenge](https://cloudresumechallenge.dev/),
 but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the open-source platform for device management. 
 
 Work through 17 core hands-on modules (plus optional bonus modules): deploy Fleet, enroll hosts,
 configure MDM, manage your configuration with GitOps, run osquery, and more.
-
-<!-- TODO: add a screenshot of Fleet here -->
 
 ## What you'll build
 

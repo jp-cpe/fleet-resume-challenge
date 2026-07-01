@@ -6,7 +6,7 @@ You're done when you've finished the 17 core modules and published your blog pos
 
 If you get stuck, the [FAQ](faq.md) covers the most common questions.
 
-> 🎓 **Recommended:** Earn the **Fleet Certified GitOps Administrator – Level 1** certification by attending a [Fleet GitOps workshop](https://fleetdm.com/gitops-workshop). It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge.
+<!-- > 🎓 **Recommended:** Earn the **Fleet Certified GitOps Administrator – Level 1** certification by attending a [Fleet GitOps workshop](https://fleetdm.com/gitops-workshop). It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge. -->
 
 ---
 

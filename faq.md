@@ -6,8 +6,6 @@ The Fleet Resume Challenge is a hands-on, project-based way to build and prove r
 ### Who should attempt the challenge?
 Anyone looking to break into IT device management, as well as current IT professionals who want to sharpen their skills with a modern, open-source platform. It's also a great fit if you're preparing for Client Platform Engineering, Security Engineering, or related roles.
 
-> While anyone can complete this challenge, it helps to have a background in IT or some foundational IT knowledge.
-
 ### How long does the challenge take?
 It depends on your experience and how much time you can dedicate. Plan for anywhere from a few weekends to a few weeks. Reading-based tasks go quickly, while deploying Fleet, enrolling hosts, and configuring MDM take more time.
 

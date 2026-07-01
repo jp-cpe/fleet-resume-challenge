@@ -4,7 +4,7 @@ Work through the core modules in order. Each builds on the last: you can't enrol
 
 You're done when you've finished the 17 core modules and published your blog post. The bonus modules are optional ways to go deeper. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
 
-If you get stuck, the [FAQ](faq.md) covers the most common questions. AI tools are fair game. See [Can I use AI tools to complete the challenge?](faq.md#can-i-use-ai-tools-to-complete-the-challenge).
+If you get stuck, the [FAQ](faq.md) covers the most common questions.
 
 > 🎓 **Recommended:** Earn the **Fleet Certified GitOps Administrator – Level 1** certification by attending a [Fleet GitOps workshop](https://fleetdm.com/gitops-workshop). It's optional and not required to finish the challenge, but it strengthens your resume and the GitOps skills carry through the whole challenge.
 

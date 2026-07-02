@@ -39,6 +39,10 @@ Put the skills you learn during the challenge on your resume and use the experie
 Contributions are welcome. Open an issue or pull request with improvements, fixes, or new module
 ideas. See the [open issues](../../issues) for what's currently in progress.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 > 🚧 This project is a *work in progress*. Content is subject to change.

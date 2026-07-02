@@ -14,7 +14,7 @@ Host vitals are the built-in, osquery-powered details Fleet refetches from every
 ## Reports (custom osquery)
 **Goal:** Demo and troubleshoot every report modality via GitOps.
 
-1. **Live report** (ad-hoc): Run a live report from the **Queries** page using one of the methods detailed in [how to run a live report](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#basic-article).
+1. **Live report** (ad-hoc): Run a live report from the **Queries** page using `fleetctl` or the REST API: [how to run a live report](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#basic-article).
 2. **Scheduled report** (recurring → log destination via GitOps): Add to `lib/queries/scheduled.yml`:
    ```yaml
    - name: osquery_info_hourly

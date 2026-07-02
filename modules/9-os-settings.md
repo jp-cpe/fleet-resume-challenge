@@ -14,4 +14,3 @@ Enforce OS settings on your hosts with configuration profiles (macOS `.mobilecon
 ## Done when
 - [ ] <TODO>
 
-> 🏗️  Keep your hard hat on, this content is under construction.

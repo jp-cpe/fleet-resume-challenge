@@ -2,6 +2,8 @@
 
 Manage device certificates using Fleet.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 A host issued a CA-backed certificate via a configuration profile, with Fleet automatically renewing it before expiry.
 
@@ -18,4 +20,3 @@ A host issued a CA-backed certificate via a configuration profile, with Fleet au
 ## Done when
 - [ ] A host has a CA-issued cert in host vitals, the profile uses `$FLEET_VAR_CERTIFICATE_RENEWAL_ID` in the OU, and you can explain how Fleet auto-renews before expiry
 
-> 🏗️  Keep your hard hat on, this content is under construction.

@@ -20,7 +20,6 @@ A clear mental model of what Fleet is, the problems it solves, and how its piece
 
 - [ ] You can explain what Fleet is and why teams choose it over traditional MDM
 - [ ] You can describe Fleet's core components and trace how a host enrolls, reports data, and receives commands
----
 
-> 🏗️  Keep your hard hat on, this content is under construction.
+---
 

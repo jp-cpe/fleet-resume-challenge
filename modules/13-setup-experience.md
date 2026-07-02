@@ -2,6 +2,8 @@
 
 Onboard a new device using setup experience.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 Zero-touch macOS onboarding: a freshly enrolled Mac runs through DEP, bootstrap package, setup software, and a setup script automatically.
 
@@ -18,4 +20,3 @@ Zero-touch macOS onboarding: a freshly enrolled Mac runs through DEP, bootstrap 
 ## Done when
 - [ ] A fresh-enrolled Mac runs DEP → bootstrap → setup software → setup script → desktop
 
-> 🏗️  Keep your hard hat on, this content is under construction.

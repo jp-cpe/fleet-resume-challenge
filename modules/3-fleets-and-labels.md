@@ -2,6 +2,8 @@
 
 Understand and use Fleet's two grouping primitives: fleets and labels.
 
+> Creating **fleets** requires Fleet Premium (free with the trial from [Module 1](1-deploy-fleet.md)); **labels** work on the free tier.
+
 ## Goal
 Your hosts organized into fleets and labels, plus an API-only user with a saved token for GitOps.
 

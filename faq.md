@@ -10,7 +10,18 @@ Anyone looking to break into IT device management, as well as current IT profess
 It depends on your experience and how much time you can dedicate. Plan for anywhere from a few weekends to a few weeks. Reading-based tasks go quickly, while deploying Fleet, enrolling hosts, and configuring MDM take more time.
 
 ### How much does it cost?
-Fleet itself is free and open source, so you can complete most of the challenge at no cost. Your may have some hosting expenses depending on which path you take.
+The challenge is designed to be free to complete. Fleet is open source, and the Premium features some modules use are covered by a free 30-day trial. Costs depend on the paths you choose:
+
+| What | Cost |
+|------|------|
+| Fleet software | $0 (open source) |
+| Fleet Premium | $0 for a 30-day trial (free, self-service) |
+| Hosting | $0 with Docker Compose / local; ~$65/mo for a cloud host like Render (optional convenience) |
+| Hosts (VMs) | $0 on hardware you already own |
+| Apple MDM | Apple Business Manager and APNs are free; some Apple flows work best on real Apple hardware |
+
+### Do I need to pay for Fleet Premium?
+No. Several modules use Premium-only features, but Module 1 sets you up with a **free 30-day Fleet Premium trial** (self-service, no sales call). The Premium modules are: Software (7), disk encryption (10), OS updates (11), certificates (12), setup experience (13), vulnerability management (14), and conditional access (Bonus 3). A few others are partly Premium: creating fleets in Module 3, per-fleet GitOps config in Module 4, and lock/wipe commands in Module 8. Plan to work through the Premium modules within the 30-day trial window.
 
 ### Do I need to complete the tasks in order?
 Mostly, yes. Later tasks build on earlier ones, so you must deploy Fleet and enroll hosts before you can work on policies, software, and the rest. Within those constraints, feel free to explore.
@@ -27,7 +38,7 @@ Yes. Validate what you get against the official Fleet docs before relying on it.
 Methods change too fast for detailed step-by-step instructions to stay accurate. Each module defines what you need to deliver: a goal, resources to draw on, and criteria for when you're done. You work out the specifics using those resources. That's the fun part.
 
 ### What hardware and software do I need?
-You'll need a place to host the Fleet server (cloud or local) and hosts running at least 3 different operating systems (for example macOS, Windows, and Linux) to enroll.
+You'll need a place to host the Fleet server (cloud or local) and hosts to enroll. The required OS scope is **macOS, Windows, and Linux**; **iOS and Android are optional** if you want to go further.
 
 ### Can I use VMs instead of physical devices?
 Yes. Virtual machines are a great way to enroll hosts across multiple operating systems without buying extra hardware. Note that some MDM features (especially Apple MDM) work best with real devices.

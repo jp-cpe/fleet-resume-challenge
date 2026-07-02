@@ -18,4 +18,3 @@ Fluency driving Fleet without the UI — running live queries and pulling data f
 ## Done when
 - [ ] You can run a live query from the CLI, and the core API calls succeed via both curl and Postman
 
-> 🏗️  Keep your hard hat on, this content is under construction.

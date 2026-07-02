@@ -17,4 +17,3 @@ Query, policy, and script results from Fleet flowing into a SIEM where you can s
 ## Done when
 - [ ] Scheduled query results land in your SIEM and a dashboard panel renders them
 
-> 🏗️  Keep your hard hat on, this content is under construction.

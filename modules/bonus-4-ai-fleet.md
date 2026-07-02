@@ -14,4 +14,3 @@ Use AI to manage Fleet.
 ## Done when
 - [ ] <TODO>
 
-> 🏗️  Keep your hard hat on, this content is under construction.

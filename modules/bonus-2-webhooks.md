@@ -16,4 +16,3 @@ Fleet events driving real automations: Slack notifications and a Tines (SOAR) wo
 ## Done when
 - [ ] Slack receives Fleet automation messages, and a forced policy failure drives a Tines workflow end-to-end
 
-> 🏗️  Keep your hard hat on, this content is under construction.

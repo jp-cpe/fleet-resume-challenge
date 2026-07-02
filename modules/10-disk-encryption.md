@@ -2,6 +2,8 @@
 
 Enforce disk encryption (FileVault on macOS, BitLocker on Windows, LUKS2 on Linux) and escrow recovery keys in Fleet.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 <TODO: one-sentence outcome>
 
@@ -14,4 +16,3 @@ Enforce disk encryption (FileVault on macOS, BitLocker on Windows, LUKS2 on Linu
 ## Done when
 - [ ] <TODO>
 
-> 🏗️  Keep your hard hat on, this content is under construction.

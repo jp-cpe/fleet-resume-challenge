@@ -2,6 +2,8 @@
 
 Deliver OS settings and issue commands to your hosts using MDM.
 
+> Basic MDM enrollment is free; **lock and wipe commands** require Fleet Premium (free with the trial from [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 <TODO: one-sentence outcome>
 
@@ -14,4 +16,3 @@ Deliver OS settings and issue commands to your hosts using MDM.
 ## Done when
 - [ ] <TODO>
 
-> 🏗️  Keep your hard hat on, this content is under construction.

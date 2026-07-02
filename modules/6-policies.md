@@ -17,4 +17,3 @@ Cross-platform compliance policies with automated remediation, plus a working li
 - [ ] 3 policies across 3 platforms, 1 with working auto-remediation
 - [ ] 3 scripts run via the UI, 1 triggered automatically from a policy
 
-> 🏗️  Keep your hard hat on, this content is under construction.

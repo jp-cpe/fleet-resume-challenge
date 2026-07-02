@@ -2,6 +2,8 @@
 
 Deliver software to your hosts.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 Software delivered through every Fleet path — install-on-enroll, self-service, Fleet-maintained apps, and (optionally) VPP — with inventory and vulnerability data visible.
 
@@ -16,4 +18,3 @@ Software delivered through every Fleet path — install-on-enroll, self-service,
 ## Done when
 - [ ] 2+ packages deployed, 1 self-service install completed from an end-user device, vuln data visible
 
-> 🏗️  Keep your hard hat on, this content is under construction.

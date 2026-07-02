@@ -2,6 +2,8 @@
 
 Manage Fleet as code with GitOps.
 
+> **GitOps** is available on the free tier; per-fleet GitOps config requires **fleets** (Premium — free with the trial from [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 Your live Fleet configuration captured in a Git repo, with changes applied automatically via CI/CD and GitOps mode locking the UI from drift.
 

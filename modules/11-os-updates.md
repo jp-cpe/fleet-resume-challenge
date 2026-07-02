@@ -2,6 +2,8 @@
 
 Enforce minimum OS versions and managed OS updates across macOS, Windows, iOS, and iPadOS.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 <TODO: one-sentence outcome>
 
@@ -14,4 +16,3 @@ Enforce minimum OS versions and managed OS updates across macOS, Windows, iOS, a
 ## Done when
 - [ ] <TODO>
 
-> 🏗️  Keep your hard hat on, this content is under construction.

@@ -2,6 +2,8 @@
 
 Use Fleet as a trust signal.
 
+> **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
+
 ## Goal
 Fleet host compliance gating access to a SaaS app: compliant hosts sign in, non-compliant hosts are blocked.
 
@@ -16,4 +18,3 @@ Fleet host compliance gating access to a SaaS app: compliant hosts sign in, non-
 ## Done when
 - [ ] A compliant host signs in successfully and a forced policy failure blocks access
 
-> 🏗️  Keep your hard hat on, this content is under construction.

@@ -9,11 +9,11 @@ Cross-platform compliance policies with automated remediation, plus a working li
 - [Step-by-step: Policies and scripts](../guides/policies.md)
 
 ## Tasks
-- [ ] Create pass/fail policies across macOS, Windows, and Linux
-- [ ] Add auto-remediation (run script on failure) to a policy and verify it fires end-to-end
-- [ ] Build a small script library and run scripts on hosts from the UI
+- [ ] Add 3 cross-platform policies to your GitOps repo (macOS, Windows, Linux)
+- [ ] Configure auto-remediation on one policy in GitOps
+- [ ] Build a script library in `lib/scripts/` and trigger scripts via policy automation and ad-hoc commands
 
 ## Done when
-- [ ] 3 policies across 3 platforms, 1 with working auto-remediation
-- [ ] 3 scripts run via the UI, 1 triggered automatically from a policy
+- [ ] 3 policies across 3 platforms defined in GitOps YAML, 1 with working auto-remediation
+- [ ] A script runs from policy automation, and you've run scripts ad-hoc on hosts from the UI
 

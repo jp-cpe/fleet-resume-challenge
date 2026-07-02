@@ -30,6 +30,7 @@ Frame each item around outcomes and tools, not just tasks. For example:
 ## Proof to link
 
 - Your public GitHub repo with GitOps configs, queries, and policies
+  > **Before making it public,** audit the repo to ensure no secrets (API tokens, enroll secrets) are committed. See [Secrets hygiene](./gitops.md#️-secrets-hygiene-critical-before-making-the-repo-public) in the GitOps guide for details.
 - Screenshots of your Fleet instance
 - The [blog post](../modules/16-blog-post.md) describing what you learned
 - The **Fleet Certified GitOps Administrator – Level 1** certification, [if you earned it](https://github.com/jp-cpe/fleet-resume-challenge/blob/main/faq.md#how-do-i-get-the-gitops-certification:~:text=How%20do%20I%20get%20the%20GitOps%20certification%3F)

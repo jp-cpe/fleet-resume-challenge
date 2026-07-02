@@ -19,6 +19,11 @@ Your live Fleet configuration captured in a Git repo, with changes applied autom
 - [ ] Commit the config to a git repo with a workflow that runs `fleetctl gitops`
 - [ ] Confirm pushes to main apply changes while PRs run dry-run only
 - [ ] Enable GitOps mode to lock the UI from drift
+- [ ] **Audit for secrets:** ensure all `# TODO` placeholders are filled via GitHub Actions secrets (not hardcoded), and consider adding a gitleaks pre-commit hook
 
 ## Done when
-- [ ] Your live config is captured in Git, a commit to main updates Fleet within ~1 min, and GitOps mode is on
+- [ ] Your live config is captured in Git, a commit to main updates Fleet within ~1 min, GitOps mode is on, and secrets are stored only in GitHub Actions secrets (never in YAML)
+
+## ⚠️ Secrets hygiene
+
+Since you'll link this repo publicly on your resume (see [Putting Fleet on your resume](../guides/resume.md)), **protect your credentials before pushing.** See the ["Secrets hygiene" section](../guides/gitops.md#️-secrets-hygiene-critical-before-making-the-repo-public) of the step-by-step guide for detailed instructions on storing secrets safely and scanning for accidental commits.

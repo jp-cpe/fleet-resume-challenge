@@ -12,9 +12,9 @@ Comfort navigating the host data Fleet collects automatically (host vitals), plu
 ## Tasks
 - [ ] Explore host vitals on a Host details page and trigger a refetch
 - [ ] Run a live osquery report
-- [ ] Schedule a recurring report to a log destination
+- [ ] Add a scheduled query to your GitOps repo and confirm it collects data
 - [ ] Add a custom query to your GitOps repo
 
 ## Done when
-- [ ] You can explain where host vitals come from, and you've run 1 live query, 1 scheduled query, and added 1 query via GitOps
+- [ ] You can explain where host vitals come from, and you've run 1 live query, added 1 scheduled query via GitOps, and added 1 custom query via GitOps
 

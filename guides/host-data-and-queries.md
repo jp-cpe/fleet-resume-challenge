@@ -12,9 +12,20 @@ Host vitals are the built-in, osquery-powered details Fleet refetches from every
 3. **Done when:** you can point to where Fleet surfaces disk encryption status and software inventory on a host, and explain that these come from Fleet's built-in queries.
 
 ## Reports (custom osquery)
-**Goal:** Demo and troubleshoot every report modality.
+**Goal:** Demo and troubleshoot every report modality via GitOps.
 
-1. **Live report** (ad-hoc): Run a live report using one of the methods detailed in this guide on [how to run a live report](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#basic-article)
-2. **Scheduled report** (recurring → log destination): `SELECT * FROM osquery_info;` hourly on Servers, log as snapshot.
+1. **Live report** (ad-hoc): Run a live report from the **Queries** page using one of the methods detailed in [how to run a live report](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#basic-article).
+2. **Scheduled report** (recurring → log destination via GitOps): Add to `lib/queries/scheduled.yml`:
+   ```yaml
+   - name: osquery_info_hourly
+     query: SELECT * FROM osquery_info;
+     interval: 3600
+     platforms:
+       - darwin
+       - linux
+       - windows
+     snapshot: false
+   ```
+   Then reference it in your team YAML under `scheduled_queries:`. Confirm it appears in **Queries → Scheduled** after the GitOps sync.
 3. Save 1 custom query in `lib/queries/` in your GitOps repo, confirm it appears in the UI after sync.
-4. **Done when:** 1 live query run, 1 scheduled query collecting, 1 query added via GitOps (not UI).
+4. **Done when:** 1 live query run from the UI, 1 scheduled query collecting (configured via GitOps), 1 custom query added via GitOps.

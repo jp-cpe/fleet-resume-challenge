@@ -29,6 +29,16 @@
 
    Depending on your configuration you may also need to add repository secrets for `FLEET_GLOBAL_ENROLL_SECRET` or other fleet enroll secrets.
 
+## ⚠️ Secrets hygiene (critical before making the repo public)
+
+Since you'll link this repo publicly on your resume as proof of work, **never commit secrets to the repository.** This is easy to miss and costly to fix:
+
+- **Always use GitHub Actions secrets** for `FLEET_URL`, `FLEET_API_TOKEN`, and any enroll secrets. Never hardcode them in `.github/workflows/*.yml`.
+- **Audit the generated YAML** for `# TODO` placeholders where `fleetctl generate-gitops` redacted secrets. Fill them in via GitHub Actions secrets or environment variables, never by hand-editing secrets into YAML files.
+- **Scan before publishing:** Add a [gitleaks](https://github.com/gitleaks/gitleaks) pre-commit hook (`brew install gitleaks` + setup) or enable [GitHub's secret scanning](https://docs.github.com/en/code-security/secret-scanning) to catch mistakes automatically.
+
+If you accidentally commit a secret, rotate it immediately in Fleet (Settings → Users) and regenerate your API token.
+
 5. Push a trivial change (edit `org_name` under `org_info` of your `default.yml`) → confirm the Action runs and applies it.
 6. Open a PR with another change → confirm it does **dry run only** on PRs, real apply on merge to main.
 7. In Fleet go to Settings → Integrations → Change management → enable **GitOps mode** to lock the UI from drift.

@@ -4,8 +4,6 @@ Once you've worked through the challenge and published your blog post, the final
 translating that hands-on experience into something hiring managers can see. This guide walks
 through how to present the Fleet Resume Challenge on your resume, LinkedIn, and in interviews.
 
-> 🏗️  Keep your hard hat on, this content is under construction.
-
 ## Why it belongs on your resume
 
 The challenge gives you real, demonstrable device management experience: a Fleet server you

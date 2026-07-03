@@ -38,8 +38,8 @@ Put the skills you learn during the challenge on your resume and use the experie
 
 This challenge is a work in progress. The checklist below shows which modules are ready to use today.
 
-- **Ready** — content written, proofread, and validated
-- **Minimal** — a minimal foundation so you can see where we're going; the plan has not yet been validated
+- **Ready** = content written, proofread, and validated
+- **Minimal** = a minimal foundation so you can see where we're going; the plan has not yet been validated
 
 ### Core modules
 
@@ -69,7 +69,7 @@ This challenge is a work in progress. The checklist below shows which modules ar
 |--------|--------|
 | [Bonus 1. SIEM](modules/bonus-1-siem.md) | 🐣 Minimal |
 | [Bonus 2. Webhooks](modules/bonus-2-webhooks.md) | 🐣 Minimal |
-| [Bonus 3. Conditional access](modules/bonus-3-conditional-access.md) | 🚧 Coming soon |
+| [Bonus 3. Conditional access](modules/bonus-3-conditional-access.md) | 🐣 Minimal |
 | [Bonus 4. AI + Fleet](modules/bonus-4-ai-fleet.md) | 🐣 Minimal |
 
 ## Contributing

@@ -15,5 +15,5 @@
 
    > Dynamic labels are defined by a single osquery `SELECT` query — membership updates automatically as hosts report in. You don't need to know osquery in depth here; you'll go deeper in [Host data & queries](../modules/5-host-data-and-queries.md).
 
-4. Create an **API-only user** (Settings → Users → Add user → select "API-only user"). Set **Permissions** to `Global user`, **Role** to `GitOps` and **API access** to `All API endpoints`. Save the token — you'll need it for GitOps.
+4. Create an **API-only user** (Settings → Users → Add user → select "API-only user"). Set **Permissions** to `Global user`, **Role** to `GitOps` and **API access** to `All API endpoints`. Save the token — you'll need it for GitOps and the [Fleet API Postman collection](https://github.com/jp-cpe/fleet-api-postman-collection).
 5. **Done when:** 2 teams populated, 1 dynamic + 1 manual label working, API token saved.

@@ -25,7 +25,6 @@
 ## Issue an MDM command
 **Goal:** Send a remote command and confirm the host acknowledges it.
 
-1. Hosts → select a test host → Actions.
-2. Issue one command: **Restart**, **Lock** (Premium), or **Wipe** (Premium). Restart is the safest choice for a sandbox.
-3. Confirm the command status shows as acknowledged on the host's details page.
-4. **Done when:** at least one MDM command has been issued and acknowledged.
+1. Issue one command via the REST API — **Restart**, **Lock** (Premium), or **Wipe** (Premium). Restart is the safest choice for a sandbox. See the [Fleet API Postman collection](https://github.com/jp-cpe/fleet-api-postman-collection).
+2. Confirm the command status shows as acknowledged on the host's details page.
+3. **Done when:** at least one MDM command has been issued and acknowledged.

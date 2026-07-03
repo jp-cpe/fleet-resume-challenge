@@ -5,14 +5,17 @@ Enforce disk encryption (FileVault on macOS, BitLocker on Windows, LUKS2 on Linu
 > **Requires Fleet Premium** — free to complete with a Fleet Premium trial (see [Module 1](1-deploy-fleet.md)).
 
 ## Goal
-<TODO: one-sentence outcome>
+Fleet-managed disk encryption enabled on macOS and Windows, with recovery keys escrowed and visible in host details.
 
 ## Resources
+- [Step-by-step: Disk encryption](../guides/disk-encryption.md)
 - [Enforce disk encryption](https://fleetdm.com/guides/enforce-disk-encryption)
 
 ## Tasks
-- [ ] <TODO>
+- [ ] Enable Fleet-managed disk encryption for macOS (FileVault) via GitOps
+- [ ] Enable Fleet-managed disk encryption for Windows (BitLocker) via GitOps
+- [ ] Confirm recovery keys appear escrowed in Fleet on the Host details page for each host
 
 ## Done when
-- [ ] <TODO>
-
+- [ ] FileVault is enabled and a recovery key is escrowed in Fleet for at least one macOS host
+- [ ] BitLocker is enabled and a recovery key is escrowed in Fleet for at least one Windows host

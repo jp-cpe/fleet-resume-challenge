@@ -1,4 +1,4 @@
-# 16. Blog post
+# 15. Blog post
 
 Write and publish a short blog post describing what you built and learned during the challenge.
 

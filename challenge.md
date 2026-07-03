@@ -2,7 +2,7 @@
 
 Work through the core modules in order. Each builds on the last: you can't enroll hosts before Fleet is deployed, and you can't manage policies before hosts are enrolled.
 
-You're done when you've finished the 17 core modules and published your blog post. The bonus modules are optional ways to go deeper. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
+You're done when you've finished the 16 core modules and published your blog post. The bonus modules are optional ways to go deeper. Keep your work in a public GitHub repo as you go; that's what you'll link on your resume.
 
 If you get stuck, the [FAQ](faq.md) covers the most common questions.
 
@@ -44,9 +44,7 @@ If you get stuck, the [FAQ](faq.md) covers the most common questions.
 
 ### [14. Vulnerability management](modules/14-vulnerability-management.md) *(Premium)*
 
-### [15. Automating Fleet (API & fleetctl)](modules/15-automating-fleet.md)
-
-### [16. Blog post](modules/16-blog-post.md)
+### [15. Blog post](modules/15-blog-post.md)
 
 ---
 

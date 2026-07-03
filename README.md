@@ -5,7 +5,7 @@
 The Fleet Resume Challenge is inspired by the [Cloud Resume Challenge](https://cloudresumechallenge.dev/),
 but built around [Fleet](https://fleetdm.com/docs/get-started/why-fleet), the open-source platform for device management. 
 
-Work through 17 core hands-on modules (plus optional bonus modules): deploy Fleet, enroll hosts,
+Work through 16 core hands-on modules (plus optional bonus modules): deploy Fleet, enroll hosts,
 configure MDM, manage your configuration with GitOps, run osquery, and more.
 
 Put the skills you learn during the challenge on your resume and use the experience to help land a job as a Client Platform Engineer.
@@ -26,7 +26,7 @@ Put the skills you learn during the challenge on your resume and use the experie
 ## How it works
 
 1. Work through the [challenge](challenge.md)
-2. Publish a [blog post](modules/16-blog-post.md)
+2. Publish a [blog post](modules/15-blog-post.md)
 3. Put Fleet on your [resume](guides/resume.md)
 
 ## Get started
@@ -60,8 +60,7 @@ This challenge is a work in progress. The checklist below shows which modules ar
 | [12. Certificates](modules/12-certificates.md) | 🐣 Minimal |
 | [13. Setup experience](modules/13-setup-experience.md) | 🐣 Minimal |
 | [14. Vulnerability management](modules/14-vulnerability-management.md) | 🐣 Minimal |
-| [15. Automating Fleet](modules/15-automating-fleet.md) | 🐣 Minimal |
-| [16. Blog post](modules/16-blog-post.md) | ✅ Ready |
+| [15. Blog post](modules/15-blog-post.md) | ✅ Ready |
 
 ### Bonus modules
 

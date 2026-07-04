@@ -50,8 +50,8 @@ This challenge is a work in progress. The checklist below shows which modules ar
 | [2. Enroll hosts](modules/2-enroll-hosts.md) | ✅ Ready |
 | [3. Fleets & labels](modules/3-fleets-and-labels.md) | ✅ Ready |
 | [4. GitOps](modules/4-gitops.md) | ✅ Ready |
-| [5. Host data & queries](modules/5-host-data-and-queries.md) | 🐣 Minimal |
-| [6. Policies](modules/6-policies.md) | 🐣 Minimal |
+| [5. Host data & queries](modules/5-host-data-and-queries.md) | ✅ Ready |
+| [6. Policies](modules/6-policies.md) | ✅ Ready |
 | [7. Software](modules/7-software.md) | 🐣 Minimal |
 | [8. MDM](modules/8-mdm.md) | 🐣 Minimal |
 | [9. OS settings](modules/9-os-settings.md) | 🐣 Minimal |

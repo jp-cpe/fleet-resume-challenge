@@ -20,6 +20,6 @@ Host vitals are the built-in, osquery-powered details Fleet refetches from every
 
 1. **Scheduled report**: [Add a report to Fleet using GitOps](https://fleetdm.com/docs/configuration/yaml-files#reports), include an `interval`, and confirm it appears in the UI after sync.
 2. Add a second report with `interval`=`0`.
-3. **Live report** (ad-hoc): Run the second report live against one of your hosts. See: [Run a live report using fleetctl](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#running-a-live-report-using-fleetctl), [run a report using the REST API](https://fleetdm.com/docs/rest-api/rest-api#run-live-report), or the [Fleet API Postman collection](https://github.com/jp-cpe/fleet-api-postman-collection).
+3. **Live report** (ad-hoc): Run the second report live against one of your hosts. See: [Run a live report using fleetctl](https://fleetdm.com/guides/get-current-telemetry-from-your-devices-with-live-queries#running-a-live-report-using-fleetctl) or [run a report using the REST API](https://fleetdm.com/docs/rest-api/rest-api#run-live-report). See also: [Fleet API Postman collection](https://github.com/jp-cpe/fleet-api-postman-collection).
 4. **Done when:** 1 scheduled query collecting (configured via GitOps), 1 live report run via `fleetctl` or the REST API.
 
